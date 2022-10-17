@@ -1,4 +1,4 @@
-## Hola, I'm Vikas kotari!] 👋
+## Hola, I'm [Vikas kotari!] 👋
 
 - 🔭 I’m currently pursuing BCA.
 - 🌱 I’m currently learning more about Full Stack Development .
