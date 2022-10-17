@@ -1,4 +1,4 @@
-## Hola, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 👋
+## Hola, I'm Vikas kotari!](https://www.linkedin.com/in/vikas-kotari-6a0918240/) 👋
 
 - 🔭 I’m currently pursuing BCA.
 - 🌱 I’m currently learning more about Full Stack Development .
