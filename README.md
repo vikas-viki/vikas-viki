@@ -1,7 +1,7 @@
 ## Hii, I'm [Vikas kotari!] 👋
 
 - 🔭 I’m currently pursuing BCA.
-- 🌱 I’m currently learning more about Full Stack Development .
+- 🌱 I’m currently learning more about Full Stack web Development .
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @Vikaskotari](https://www.linkedin.com/in/vikas-kotari-6a0918240/)
