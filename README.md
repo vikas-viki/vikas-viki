@@ -7,6 +7,7 @@
 - 📫 How to reach me: [Linkedin - @Vikaskotari](https://www.linkedin.com/in/vikas-kotari-6a0918240/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
+- 👦 Portfolio: [view](https://vikaskotary.netlify.app/)
 
 **Languages and Tools:**  
 
