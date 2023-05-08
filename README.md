@@ -12,7 +12,15 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/ethersjs.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/solidity.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/hardhat.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/html-5.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/react.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/redux.png"></code>
+<code><img height="20" src="https://vikaskotary.netlify.app/assets/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!---
