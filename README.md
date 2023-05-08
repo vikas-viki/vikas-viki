@@ -1,4 +1,4 @@
-## Hii, I'm Vikas kotari! 👋
+## Hii, I'm Vikas kotary! 👋
 
 - 🔭 I’m currently pursuing BCA.
 - 🌱 I’m currently learning more about Full Stack web3 Development .
