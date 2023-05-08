@@ -12,7 +12,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://assets-global.website-files.com/5f973c970bea5548ad4287ef/63dce1d6a617de7ba0a52f0f_nav-logo.svg"></code>
+<code><img height="20" src="https://i.ibb.co/gwgZvc9/764-Untitled-design.png"></code>
 <code><img height="20" src="https://vikaskotary.netlify.app/assets/ethersjs.png"></code>
 <code><img height="20" src="https://vikaskotary.netlify.app/assets/solidity.png"></code>
 <code><img height="20" src="https://vikaskotary.netlify.app/assets/hardhat.png"></code>
