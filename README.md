@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 - 👦 Portfolio: [view](https://vikaskotary.netlify.app/)
+- 📃 Resume: [view](https://vikaskotary.netlify.app/assets/resume.pdf)
 
 **Languages and Tools:**  
 
