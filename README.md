@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently pursuing BCA.
 - 🌱 I’m currently learning more about Full Stack web3 Development .
-- 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Web3 Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @Vikaskotari](https://www.linkedin.com/in/vikas-kotari-6a0918240/)
 - 😄 Pronouns: He/His
