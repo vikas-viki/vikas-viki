@@ -2,10 +2,7 @@
 <p align="center">
   <a href="mailto:vikaskotary001@outlook.com">Email</a> •
   <a href="https://vikaskotary.netlify.app/">Portfolio</a> •
-  <a href="https://github.com/vikas-viki">GitHub</a> •
-  <a href="http://zeru.finance/">Zeru</a> •
-  <a href="https://zeet.0xbuilder.in/">Zeet</a> •
-  <a href="https://welcomint.vercel.app/">Welcomint</a>
+  <a href="https://github.com/vikas-viki">GitHub</a>
 </p>
 
 ---
