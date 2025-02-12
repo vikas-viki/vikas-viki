@@ -1,75 +1,70 @@
 <h1 align="center">Hi there, I'm Vikas Kotary 👋</h1>
 <p align="center">
   <a href="mailto:vikaskotary001@outlook.com">Email</a> •
-  <a href="https://vikaskotary.netlify.app/">Portfolio</a> •
-  <a href="https://github.com/vikas-viki">GitHub</a>
+  <a href="https://vikaskotary.netlify.app/">Portfolio</a> 
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🔹 **Blockchain Developer** specializing in smart contract development, DeFi integrations, and Web3 solutions.  
-🔹 Passionate about **Solidity, Foundry, Hardhat, and Ethers.js** for building scalable blockchain protocols.  
-🔹 Experienced in full-stack development with **MongoDB, React, Node.js, GraphQL, and WebSockets**.  
+🔹 **Full-Stack & Blockchain Developer** specializing in scalable web apps and decentralized solutions.  
+🔹 Passionate about **React, Node.js, TypeScript, PostgreSQL, MongoDB, and Solidity**.  
+🔹 Experienced in **real-time applications, WebSockets, and smartcontracts architecture**.  
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🔹 Web & Backend Development
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### 🔹 Blockchain & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
-![Chainlink](https://img.shields.io/badge/Chainlink-%23003184.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-%2303A57D.svg?style=for-the-badge&logo=ipfs&logoColor=white)
-
-### 🔹 Web & Backend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### **Blockchain Developer - ZERU (Dec 2023 – Oct 2024)**
-🔹 Led DeFi integrations with Uniswap, 1inch, 0x, API3, and more.  
-🔹 Migrated Hardhat projects to Foundry, improving efficiency.  
-🔹 Built an npm SDK to simplify protocol usage.  
-🔹 Automated operational tasks with Node.js bots.  
+### **Full-Stack & Blockchain Developer - ZERU (Dec 2023 – Oct 2024)**
+🔹 Integrated major **DeFi protocols** (Uniswap, 1inch, 0x, API3, Paraswap).  
+🔹 Built and optimized a **Node.js + TypeScript backend** for Web3 interactions.  
+🔹 Migrated Hardhat projects to Foundry, improving testing efficiency.  
+🔹 Automated operational workflows using **PostgreSQL & MongoDB**.  
 
-### **Blockchain Developer - Stake n' Bake (Jun 2023 – Feb 2024)**
-🔹 Developed a live **crosschain farming game** using **Unity & Thirdweb SDK**.  
-🔹 Implemented account abstraction for seamless user experience.  
+### **Full-Stack Developer - Stake n' Bake (Jun 2023 – Feb 2024)**
+🔹 Developed a **crosschain farming game** using **React, Node.js, and Unity**.  
+🔹 Utilized **Thirdweb SDK** for contract interactions and authentication.  
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚀 **Zeet**  
-**A Gather Town-like platform with real-time interaction.**  
-🔹 Built using **WebSockets & MediaSoup** for low-latency communication.  
-🔹 Supports **Google Login, Chat, Audio/Video, and Multiplayer Movement**.  
-🔹 Hosted on **AWS with PostgreSQL** for scalable state management.  
+**A Gather Town-like platform for real-time interaction.**  
+🔹 Built using **React, Node.js, PostgreSQL, WebSockets & MediaSoup**.  
+🔹 Features **Google Login, Chat, Multiplayer Movement, Audio/Video**.  
 🔗 [Live Demo](https://zeet.0xbuilder.in/) | [GitHub](https://github.com/vikas-viki/zeet)
 
 ---
 
 ### 🎨 **Welcomint**  
-**An NFT marketplace for seamless trading.**  
-🔹 Created an intuitive UI for **NFT creation, listing, purchasing, and cancellations**.  
-🔹 Used **Pinata IPFS & Alchemy SDK** for NFT storage and metadata handling.  
+**An NFT marketplace built with React, TypeScript & Solidity.**  
+🔹 Developed **listing, purchasing, and NFT metadata handling** using **Alchemy & Pinata**.  
 🔗 [Live Demo](https://welcomint.vercel.app/) | [GitHub](https://github.com/vikas-viki/welcomint)
 
 ---
 
 ### 🛠 **Detoxify**  
-**A Chrome extension for filtering YouTube content based on user-defined keywords.**  
-🔹 Integrated **YouTube Data v3 API** for real-time content filtering.  
-🔹 Enabled **Google Login for personalized experiences**.  
+**A Chrome extension filtering YouTube home feed based on keywords.**  
+🔹 Built using **TypeScript, YouTube Data v3 API, and OAuth authentication**.  
 🔗 [GitHub](https://github.com/vikas-viki/detoxify)
 
 ---
@@ -91,4 +86,4 @@
 
 ---
 
-🔥 **Let's build the decentralized future together!** 🚀
+🔥 **Let's build the future of the web! 🚀**
