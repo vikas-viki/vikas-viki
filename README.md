@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vikas Kotary 👋</h1>
 <p align="center">
   <a href="mailto:vikaskotary001@outlook.com">Email</a> •
-  <a href="https://vikaskotary.netlify.app/">Portfolio</a> 
+  <a href="https://www.0xbuilder.in/">Portfolio</a> 
 </p>
 
 
