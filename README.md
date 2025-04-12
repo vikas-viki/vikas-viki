@@ -20,6 +20,11 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats
