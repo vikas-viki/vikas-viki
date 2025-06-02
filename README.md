@@ -1,5 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=44&pause=1000&background=25383A00&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I'm+Vikas+Kotary!" alt="Typing SVG" /></a> 
+</h1>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vikas-viki)
-<h1 align="center">Hi there, I'm Vikas Kotary 👋</h1>
+
 <p align="center">
   <a href="mailto:vikaskotary001@outlook.com">Email</a> •
   <a href="https://www.0xbuilder.in/">Portfolio</a> 
