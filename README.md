@@ -10,7 +10,6 @@
   <a href="https://github.com/vikas-viki">GitHub</a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +29,7 @@
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 
----
+
 
 ## ⏱️ Weekly Coding Stats
 
@@ -46,7 +45,7 @@ Bash         7 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -55,7 +54,7 @@ Bash         7 mins          ░░░░░░░░░░░░░░░░░
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-viki&theme=radical" height="150"/>
 </p>
 
----
+
 
 ## 📫 Connect with Me
 
@@ -63,8 +62,8 @@ Bash         7 mins          ░░░░░░░░░░░░░░░░░
 - 🌐 **Portfolio:** [0xbuilder.in](https://0xbuilder.in)  
 - 🐙 **GitHub:** [github.com/vikas-viki](https://github.com/vikas-viki)  
 
----
+
 
 <p align="center">
-  <strong>🔥 Let's build the future of the web! 🚀</strong>
+  <strong>🔥 Let's build the next OG! 🚀</strong>
 </p>
