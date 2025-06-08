@@ -55,13 +55,11 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 
-
 ## 📫 Connect with Me
 
 - 💌 **Email:** [vikaskotary001@outlook.com](mailto:vikaskotary001@outlook.com)  
 - 🌐 **Portfolio:** [0xbuilder.in](https://0xbuilder.in)  
 - 🐙 **GitHub:** [github.com/vikas-viki](https://github.com/vikas-viki)  
-
 
 
 <p align="center">
