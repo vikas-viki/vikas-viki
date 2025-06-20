@@ -29,8 +29,6 @@
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 
-
-
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
