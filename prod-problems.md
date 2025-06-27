@@ -46,6 +46,9 @@ For a small-scale startup, I had a **2GB RAM Droplet** hosting both the frontend
 
 📦 Now the server gets the exact build + dependencies from CI — identical to local behavior, no surprises.
 
+> wait wait wait
+after that pnpm symlinks became an issue, so I had to go with docker instead
+
 ---
 
 ## 🧠 Lessons
