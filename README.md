@@ -13,21 +13,52 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Web & Backend Development
+### 🚀 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23326B9A.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-%23005694.svg?style=for-the-badge&logo=recoil&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge)
+
+---
+
+### 🖥️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔹 Blockchain & Smart Contracts
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%23004B50.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![MediaSoup](https://img.shields.io/badge/MediaSoup-%23FF3C41.svg?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-%230072C6.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-%2300B3E6.svg?style=for-the-badge)
+![Pinata](https://img.shields.io/badge/Pinata-%23F5DF4D.svg?style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-%2300A86B.svg?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23F5C518.svg?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-%23F213A4.svg?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps / Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-%23122D42.svg?style=for-the-badge&logo=ngrok&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ## ⏱️ Weekly Coding Stats
 
