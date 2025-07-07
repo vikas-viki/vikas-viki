@@ -10,9 +10,6 @@
   <a href="https://github.com/vikas-viki">GitHub</a>
 </p>
 
-
-## 🛠️ Tech Stack
-
 ### 🚀 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
