@@ -57,19 +57,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript                 5 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-Markdown                   4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-YAML                       2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Bash                       1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Other                      1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
