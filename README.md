@@ -69,7 +69,7 @@
 
 ## 📫 Connect with Me
 
-- 💌 **Email:** [vikaskotary001@outlook.com](mailto:vikaskotary001@outlook.com)  
+- 💌 **Email:** [vikaskotary001@gmail.com](mailto:vikaskotary001@gmail.com)  
 - 🌐 **Portfolio:** [0xbuilder.in](https://0xbuilder.in)  
 - 🐙 **GitHub:** [github.com/vikas-viki](https://github.com/vikas-viki)  
 
